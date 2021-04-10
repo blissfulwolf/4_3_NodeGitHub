@@ -5,18 +5,18 @@
   "main": "main.js",
   "scripts": {
     "test": "node test.js",
-    "start": "node main.js"
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielstern/integration-test-repo.git"
+    "url": "git+https://github.com/blissfulwolf/4_3_NodeGitHub.git"
   },
   "author": "new",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danielstern/integration-test-repo/issues"
+    "url": "https://github.com/blissfulwolf/4_3_NodeGitHub/issues"
   },
-  "homepage": "https://github.com/danielstern/integration-test-repo#readme",
+  "homepage": "https://github.com/blissfulwolf/4_3_NodeGitHub#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
